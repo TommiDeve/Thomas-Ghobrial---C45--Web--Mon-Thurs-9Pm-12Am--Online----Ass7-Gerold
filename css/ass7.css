@@ -82,6 +82,9 @@ nav img {
 }
 nav .mail{
   display: none;
+  color: #fff;
+  font-size: 15px;
+  line-height: 23px;
 }
 nav div{
   display: flex;
